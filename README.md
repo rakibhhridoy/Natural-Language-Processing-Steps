@@ -1,6 +1,6 @@
 ## NLP Steps In Tensorflow for Classification And Sequence
 
-####Natural Language Processing Tast is quite easy if you make your work clean and proceesed in order.
+#### Natural Language Processing Tast is quite easy if you make your work clean and proceesed in order.
 
 ##### In this Repository you will find notbook that is well ordered for nlp task in Tensorflow. You will get:
 - Text Classification 
