@@ -1,8 +1,9 @@
+<center>
 ### NLP Steps In ```TensorFlow``` for ****Classification & Sequence****
 
 
 <p><center>
- <img src = 'https://i0.wp.com/aliz.ai/wp-content/uploads/2019/05/Natural-Language-Processing-03-1.png?fit=3042%2C1521&ssl=1', height= 500, width = 1200>
+ <img src = 'https://i0.wp.com/aliz.ai/wp-content/uploads/2019/05/Natural-Language-Processing-03-1.png?fit=3042%2C1521&ssl=1', height= 400, width = 1200>
  </center>
 </p>
 
@@ -51,3 +52,4 @@ In order to make task in a step, we have the following Steps:
 ###### Additionally You can find the scripts in ```Python``` to help easy and fast work.
 
 ###### You can hire me/connect with me in [Linkedin](https://linkedin.com/in/rakibhhridoy)
+</center>
