@@ -2,7 +2,7 @@
 
 
 <p><center>
- <img src = 'https://i0.wp.com/aliz.ai/wp-content/uploads/2019/05/Natural-Language-Processing-03-1.png?fit=3042%2C1521&ssl=1', height= 300>
+ <img src = 'https://i0.wp.com/aliz.ai/wp-content/uploads/2019/05/Natural-Language-Processing-03-1.png?fit=3042%2C1521&ssl=1', height= 500, width = 1200>
  </center>
 </p>
 
