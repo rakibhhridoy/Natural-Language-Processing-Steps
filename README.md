@@ -1,8 +1,9 @@
 ### NLP Steps In ```TensorFlow``` for ****Classification & Sequence****
 
 
-<p>
+<p><center>
  <img src = 'https://i0.wp.com/aliz.ai/wp-content/uploads/2019/05/Natural-Language-Processing-03-1.png?fit=3042%2C1521&ssl=1', height= 300>
+ </center>
 </p>
 
 ##### Natural Language Processing Task is quite easy if you make your work clean and proceesed in order.
