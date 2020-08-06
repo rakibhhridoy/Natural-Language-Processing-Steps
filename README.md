@@ -1,6 +1,3 @@
-<p>
-<center>
-
 ### NLP Steps In ```TensorFlow``` for ****Classification & Sequence****
 
 
@@ -54,6 +51,3 @@ In order to make task in a step, we have the following Steps:
 ###### Additionally You can find the scripts in ```Python``` to help easy and fast work.
 
 ###### You can hire me/connect with me in [Linkedin](https://linkedin.com/in/rakibhhridoy)
-
-</center>
-</p>
