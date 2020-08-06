@@ -1,4 +1,4 @@
-### NLP Steps In ```TensorFlow``` for ****Classification & Sequence*****
+### NLP Steps In ```TensorFlow``` for ****Classification & Sequence****
 
 ##### Natural Language Processing Task is quite easy if you make your work clean and proceesed in order.
 
@@ -16,7 +16,9 @@ pip install tensorlflow== 2.2.0  #for version 2.2.0
 ```
 
 In order to make task in a step, we have the following Steps:
+
 ```Text Classification```:
+
 -	Senctence
 -	Tokenize
 -	Padded
@@ -37,6 +39,9 @@ In order to make task in a step, we have the following Steps:
 -	Validate The Model to Make Sequence of Word
 
 
+
+
+
 ###### Additionally You can find the scripts in ```Python``` to help easy and fast work.
 
-###### You can hire me/connect with me in ```[Linkedin](https://linkedin.com/in/rakibhhridoy)```
+###### You can hire me/connect with me in [Linkedin](https://linkedin.com/in/rakibhhridoy)
